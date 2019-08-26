@@ -1,0 +1,3 @@
+rem SET JAVA_HOME=...
+call gradlew bootRun
+pause
